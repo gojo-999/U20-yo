@@ -48,12 +48,12 @@ module.exports = {
 
       try {
         await api.sendMessage(
-          `✅ Group has been Successfully Approved by ᴀᴍɪᴛ ᴍᴀx ⚡!\n\n📜 Type ${global.GoatBot.config.prefix}help to See Cmds!`,
+          `✅ Group has been Successfully Approved by Dbz_Mahin!\n\n📜 Type ${global.GoatBot.config.prefix}help to See Cmds!`,
           group.threadID
         );
 
         await api.changeNickname(
-          `${global.GoatBot.config.nickNameBot || "🌬️ Mizuhara Chizuru ✨"}`,
+          `${global.GoatBot.config.nickNameBot || "💋𝐌𝐢𝐬𝐬 𝐌𝐚𝐤𝐢𝐦𝐚🦋💌"}`,
           group.threadID,
           api.getCurrentUserID()
         );
