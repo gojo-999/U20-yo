@@ -22,7 +22,7 @@ module.exports = {
 
     },
 
-    category: "economy",
+    category: "💰 Economy",
 
     countDown: 15,
 
@@ -526,7 +526,7 @@ function formatNumberWithFullForm(number) {
 
   const fullForms = [
 
-    "Hundred",
+    "",
 
     "Thousand",
 

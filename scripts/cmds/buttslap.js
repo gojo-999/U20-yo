@@ -5,12 +5,12 @@ module.exports = {
   config: {
     name: "buttslap",
     version: "1.1",
-    author: "Amit max ⚡",// Amit Max don't change it..
+    author: "KSHITIZ",
     countDown: 5,
     role: 0,
     shortDescription: "Buttslap image",
     longDescription: "Buttslap image",
-    category: "fun",
+    category: "meme",
     guide: {
       en: "   {pn} @tag"
     }
